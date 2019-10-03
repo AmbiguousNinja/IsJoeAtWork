@@ -25,5 +25,5 @@ function shift(modDay) {
 }
 
 function buttonClick() {
-	// rootApp.innerHTML = `${shift(modDays())}`
+	rootApp.innerHTML = "Hi"
 }
